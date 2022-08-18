@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "Authentication\Authentication.csproj", "{9B7425E1-C785-44B3-AABC-2F0368129C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Version", "Version\Version.csproj", "{8E60AE11-E144-496A-AC25-03A2CBEC1531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caching", "Caching\Caching.csproj", "{49BCE8C4-3F90-44E4-9867-F91ED017445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7425E1-C785-44B3-AABC-2F0368129C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7425E1-C785-44B3-AABC-2F0368129C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7425E1-C785-44B3-AABC-2F0368129C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7425E1-C785-44B3-AABC-2F0368129C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E60AE11-E144-496A-AC25-03A2CBEC1531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E60AE11-E144-496A-AC25-03A2CBEC1531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E60AE11-E144-496A-AC25-03A2CBEC1531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E60AE11-E144-496A-AC25-03A2CBEC1531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BCE8C4-3F90-44E4-9867-F91ED017445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BCE8C4-3F90-44E4-9867-F91ED017445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BCE8C4-3F90-44E4-9867-F91ED017445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BCE8C4-3F90-44E4-9867-F91ED017445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
